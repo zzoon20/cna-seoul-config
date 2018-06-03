@@ -1,0 +1,4 @@
+feature:
+  food:
+    process:
+      new: true
