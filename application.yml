@@ -1,4 +1,4 @@
 feature:
   food:
     process:
-      new: false
+      new: true
